@@ -1,3 +1,9 @@
+[![make.fun bounty](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/zenfrog72/makefun-mend/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/zenfrog72/makefun-mend/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
+
+Entry for the make.fun bounty [hidden-spec-cli-01-run-20261122](https://make.fun/bounty/hidden-spec-cli-01-run-20261122): **mend**, one command-line tool that applies the edits AI models write — unified diffs, SEARCH/REPLACE blocks, V4A patches and tool-call JSON — with tiered whitespace-tolerant matching and all-or-nothing writes.
+
 # mend: the starter
 
 Start your agent's session at or after the contest's opening (its `opens_at`) and build the entry in it: a session
